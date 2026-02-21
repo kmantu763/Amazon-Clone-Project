@@ -7,6 +7,10 @@
    body {
     background-color: #e3e6e6;
    }
+.disclaimer {
+    color: red;
+    margin: 10px;
+   }
  /* box1 */
  .navbar {
     height: 3.8rem;
